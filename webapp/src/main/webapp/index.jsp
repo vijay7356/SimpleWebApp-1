@@ -96,10 +96,12 @@ h1{
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
-            </ul>
+                <li><a href="#Help">Contact</a></li>
+
+		</ul>
 		
         </header>
-         <h1>Flipkart summer Mobile offer available from 1st March 2023 31st March 2023</h1>
+         <h1>          VSK    </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
