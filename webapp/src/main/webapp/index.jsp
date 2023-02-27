@@ -96,12 +96,12 @@ h1{
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="#Help">Contact</a></li>
+                <li><a href="#Help">help</a></li>
 
 		</ul>
 		
         </header>
-         <h1>          VSK    </h1>
+         <h1>        WELCOME  VSK    </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
